@@ -45,7 +45,7 @@ travel-roadbook-generator/
 
 ## 作者
 
-**orionxzhang** — 产品经理 × AI 极客
+**orionxzhang**
 
 ## License
 
